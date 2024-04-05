@@ -10,6 +10,10 @@ const links = [
     name: "Знакомство с директивами",
     path: '/directives'
   },
+  {
+    name: "Работа с api",
+    path: '/api'
+  },
 ]
 
 </script>
